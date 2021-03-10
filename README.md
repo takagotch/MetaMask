@@ -1,4 +1,4 @@
-### Metamask | ETH | twitter
+### [Metamask | ETH | twitter](https://book.ethereum-jp.net/appendix/using_metamask)
 ---
 https://metamask.io/
 
